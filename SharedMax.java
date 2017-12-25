@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class SharedMax {
 
   private volatile int maxIndex = -1;
